@@ -35,7 +35,7 @@ const data = [
 	  id: 5,
 	  name: "Darjeeling",
 	  state: "West Bengal",
-	  info: "Starting in the colorful port city of Gdańsk, you'll escape the crowds and embrace the understated elegance of ready-for-prime-time Poland for 10 days. With an expert Rick Steves guide at your side, you'll experience mighty Malbork castle, the cobbly-cute village of Toruń, Poland's contemporary capital of Warsaw, the spiritual Jasna Góra Monastery, and charming Kraków — Poland's finest city. In this land of surprises — so trendy and hip, yet steeped in history — there's so much to discover. Join us for the Best of Poland in 10 Days!",
+	  info: "Starting in the colorful port city of Gdańsk, you'll escape the crowds and embrace the understated elegance of ready-for-prime-time Poland for 10 days. ",
 	  image: "https://cdn.thecodehelp.in/Darjeeling.jpeg",
 	  price: "78,595",
 	},

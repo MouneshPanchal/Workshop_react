@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  background-color: #90f2f9;
 }
 
 body {
@@ -51,6 +52,8 @@ body {
   width: 380px;
   aspect-ratio: 1/1;
   object-fit: cover;
+  padding: 5px;
+  border-radius: 13px;
 }
 
 .tour-info {
@@ -143,7 +146,7 @@ body {
   border-radius: 10px;
   font-weight: medium;
   color: #333;
-  background-color: #fff;
+  background-color: #35d4df;
   border: 1px solid #ddd;
 }
 
