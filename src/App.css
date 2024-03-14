@@ -14,7 +14,7 @@ body {
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  color: orange;
+  color: rgb(3, 18, 19);
 }
 
 .title {
@@ -28,7 +28,7 @@ body {
 
 .cards {
   display: flex;
-  /* align-items: center; */
+  align-items: center;
   justify-content: center;
   flex-wrap: wrap;
   max-width: 1300px;

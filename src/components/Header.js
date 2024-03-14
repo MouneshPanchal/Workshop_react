@@ -2,8 +2,9 @@ import React from "react";
 
 const Header = ()=>{
     return(
-        <div className="container">
-            Plan A Tour
+        <div className="filter-container">
+            <div className="title">Plan A Tour in India</div>
+            
         </div>
     )
 }
