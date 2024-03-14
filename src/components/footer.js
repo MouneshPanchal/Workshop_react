@@ -3,7 +3,7 @@ import React from "react";
 function Footer() {
     return(
         <div className='footer'>
-            <h2>This is Footer</h2>
+            <h2>@Mounesh-Panchal Created in ReactJS Workshop </h2>
         </div>
     )
 }

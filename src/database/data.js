@@ -4,8 +4,8 @@ const data = [
 	  name: "Mysore",
 	  state: "Karnataka",
 	  info: "Agra is a city in northern India, known for the iconic Taj Mahal, a stunning white marble mausoleum built by Mughal emperor Shah Jahan in memory of his beloved wife. Agra is also home to several other historic and architectural wonders, including Agra Fort and Fatehpur Sikri.",
-	  image: "https://cdn.thecodehelp.in/Agra.jpeg",
-	  price: "1Cr",
+	  image: "https://upload.wikimedia.org/wikipedia/commons/a/a4/Mysore_Palace_Morning.jpg",
+	  price: "79,000",
 	},
 	{
 	  id: 2,

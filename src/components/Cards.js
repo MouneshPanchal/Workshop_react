@@ -5,7 +5,7 @@ const Cards = ({ id, name, info, image, price }) => {
 
     const bookingHandler =(id)=>{
         console.log("booked", id);
-        toast.success("Rocky You Have Done!");
+        toast.success("You have Successfully Book");
         // toast.error("failed");
         // toast.info("info here")
         // toast.warning("info here")
